@@ -1,3 +1,3 @@
-# DigitalClock
+# DigitalClock/Java
 
-Simply digital clock application build with Netbeans
+Simply digital clock application deveopled with NetBeans
